@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Bento
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning how to survive college
-- 💞️ I’m looking to collaborate on nothing
+# I'm Bento 👋
+- 👀 I’m interested in ☭
+- 🌱 I’m currently learning how to survive college n prob how to use express with node
 - 📫 How to reach me call me on discord ><
 
 <!---
